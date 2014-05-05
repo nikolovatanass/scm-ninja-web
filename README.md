@@ -11,3 +11,6 @@ mvn compile
 
 ### Run Ninja Server ###
 mvn ninja:run
+
+### Add git remote ###
+git remote add origin _URL_
